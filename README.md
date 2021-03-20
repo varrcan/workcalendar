@@ -18,7 +18,7 @@ import (
     "fmt"
 	"time"
     //import a country
-	"github.com/Gasoid/workalendar/europe/russia"
+	"github.com/varrcan/workcalendar/europe/russia"
 )
 
 func main() {
@@ -51,7 +51,7 @@ import (
     "fmt"
 	"time"
     //import a region
-	"github.com/Gasoid/workalendar/europe/spain/catalonia"
+	"github.com/varrcan/workcalendar/europe/spain/catalonia"
 )
 
 func main() {

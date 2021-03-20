@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	core "github.com/Gasoid/workalendar"
+	core "github.com/varrcan/workcalendar"
 )
 
 //TODO: add Corpus Christi, it is a variable holiday

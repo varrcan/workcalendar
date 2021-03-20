@@ -4,8 +4,8 @@ import (
 	"testing"
 	"time"
 
-	country "github.com/Gasoid/workalendar/europe/finland"
 	"github.com/stretchr/testify/assert"
+	country "github.com/varrcan/workcalendar/europe/finland"
 )
 
 var (
