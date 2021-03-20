@@ -1,4 +1,4 @@
-module github.com/Gasoid/workalendar
+module github.com/varrcan/workcalendar
 
 go 1.14
 
